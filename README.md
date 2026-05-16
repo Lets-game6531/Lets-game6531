@@ -28,6 +28,4 @@ Here are some of the languages, tools, and technologies I work with:
 
 * **GitHub:** [@Lets-game6531](https://github.com/Lets-game6531)
 * **Discord:** [@Let's_game6531#7169](https://discord.com/users/917048183270543463)
-* **Email:** 
-
-⚡ **Fun Fact:** "The best error message is the one that never shows up."
+* **Email:** [evan@thegamingcrib.net](mailto:evan@thegamingcrib.net)
