@@ -7,7 +7,7 @@
 <!-- STATS SECTION START -->
 <p>
   <!-- GitHub Streak Stats Counter -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lets-game6531&theme=vue-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>  
+  <img src="https://streak-stats.demolab.com/?user=Lets-game6531&theme=tokyonight" alt="GitHub Streak Stats" width="48%" />  
 </p>
 
 ---
