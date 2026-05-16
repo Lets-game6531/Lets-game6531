@@ -13,10 +13,6 @@
 
 ---
 
-## 🛠️ My Tech Stack
-
-Here are some of the languages, tools, and technologies I work with:
-
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | HTML, Styles, JavaScript |
