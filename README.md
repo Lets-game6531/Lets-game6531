@@ -2,7 +2,7 @@
 
 ---
 
-## 📊 My Deep GitHub Analytics
+## 📊 My GitHub Analytics
 
 <!-- STATS SECTION START -->
 <p>
